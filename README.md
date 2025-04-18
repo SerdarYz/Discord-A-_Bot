@@ -1,3 +1,4 @@
+Güvercin mi Serçe mi? - Yapay Zeka Tanıtımı
 Hakkında
 "Güvercin mi yoksa serçe mi?" sorusunun cevabını bulan bu yapay zeka, gelişmiş görüntü işleme ve makine öğrenimi algoritmaları ile kuş türlerini belirleyebilen bir sistemdir. Doğrudan görselleri analiz eder ve türleri yüksek doğruluk oranıyla sınıflandırır.
 
